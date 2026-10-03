@@ -6,10 +6,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UniFECAF. Sou a
 
 ###  Sobre Mim
 
-- 🎓 **Educação:** Cursando o 3º semestre de ADS na UniFECAF.
-- 💻 **Foco Atual:** Desenvolvimento Back-End e Automação de Processos em Python e Java.
-- ⚙️ **Projetos Realizados:** Desenvolvimento de pipelines para processamento, automação e organização de grandes volumes de mídias (+4.000 ficheiros) com integração via API do Spotify.
-- 📊 **Qualidade & Processos:** Bagagem prática em controlo de qualidade, metrologia e processos rigorosos de auditoria.
+-  **Educação:** Cursando o 3º semestre de ADS na UniFECAF.
+-  **Foco Atual:** Desenvolvimento Back-End e Automação de Processos em Python e Java.
+-  **Projetos Realizados:** Desenvolvimento de pipelines para processamento, automação e organização de grandes volumes de mídias (+4.000 ficheiros) com integração via API do Spotify.
+-  **Qualidade & Processos:** Bagagem prática em controlo de qualidade, metrologia e processos rigorosos de auditoria.
 
 ---
 
